@@ -1,4 +1,4 @@
-# Build Your Own Foundry — Worksheet
+# Build Your Foundry — Worksheet
 
 *You already have a philosophy. It's trapped in stories you haven't
 written down yet. This worksheet — the same one used in the live
@@ -134,5 +134,5 @@ principle will be sitting there waiting for you.
 down. The philosophy is what your stories become when you keep
 listening to them.*
 
-*Part of [Build Your Own Foundry](../README.md) by Lauren Irving ·
+*Part of [Build Your Foundry](../README.md) by Lauren Irving ·
 CC BY-NC-SA 4.0*

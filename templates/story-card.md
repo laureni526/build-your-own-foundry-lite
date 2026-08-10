@@ -27,4 +27,4 @@ your people, or the world actually behaves.)*
 
 ------------------------------------------------------------------------
 
-*Part of Build Your Own Foundry by Lauren Irving · CC BY-NC-SA 4.0*
+*Part of Build Your Foundry by Lauren Irving · CC BY-NC-SA 4.0*

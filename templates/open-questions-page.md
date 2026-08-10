@@ -46,4 +46,4 @@ itself evidence.)*
 ------------------------------------------------------------------------
 
 *Review this page during your monthly pattern check. Part of Build
-Your Own Foundry by Lauren Irving · CC BY-NC-SA 4.0*
+Your Foundry by Lauren Irving · CC BY-NC-SA 4.0*

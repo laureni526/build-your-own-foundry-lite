@@ -1,6 +1,6 @@
 # The Minimum Viable Foundry
 
-*The model behind the Build Your Own Foundry workshop*
+*The model behind the Build Your Foundry workshop*
 
 ------------------------------------------------------------------------
 
@@ -167,5 +167,5 @@ let any tool question delay the first story.
 
 ------------------------------------------------------------------------
 
-*Part of [Build Your Own Foundry](../README.md) by Lauren Irving ·
+*Part of [Build Your Foundry](../README.md) by Lauren Irving ·
 CC BY-NC-SA 4.0*
