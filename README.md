@@ -44,30 +44,9 @@ When you're tempted to declare something true, the default answer is:
 
 ## If an AI agent is reading this
 
-You're likely here because someone pointed you at this repository and
-asked you to help build their own Foundry from it — via GitHub's "Use
-this template" (their own copy) or directly in a copy they already
-made.
-
-1.  Read `start-here/minimum-viable-foundry.md` first — it's the model
-    everything else follows.
-2.  Read every file in `templates/` before creating anything. Match
-    their structure; don't invent a different one.
-3.  Create the smallest folder structure that can grow — you decide
-    the layout, but explain your choices when you're done.
-4.  From what the person gives you, build: one story card (their exact
-    words and specific details — do not paraphrase or polish them),
-    one pattern hunch (**explicitly labeled provisional** — "I have a
-    hunch that ___, but I've only seen it ___ times, in ___
-    context(s)"), and placeholders for their North Star question, an
-    Open Questions page, and a capture plan.
-5.  **Do not create principles, make claims their evidence doesn't
-    support, or promote a hunch for them.** That call is theirs, and
-    only after more stories from different contexts back it up.
-6.  **Do not edit the files in `templates/` or `start-here/`** — those
-    are the starter kit itself. Copy from them; don't rewrite them.
-7.  When you're done, tell the person exactly which files you created
-    and why each one belongs where it does.
+See **[AGENTS.md](AGENTS.md)** for the full instructions on how to
+work in this repo — what to read first, what to build, and what never
+to touch.
 
 ## What's in the kit
 
