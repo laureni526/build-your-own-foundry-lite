@@ -60,6 +60,17 @@ to touch.
 | `templates/open-questions-page.md` | The page that keeps your system honest |
 | `templates/thirty-day-capture-plan.md` | The habit that makes it all compound |
 
+## What comes after this
+
+This kit gets you your first story, hunch, question, and habit — not
+what to do with them once they pile up. That's a different repo:
+**[Build Your Foundry — The Solo Path](https://github.com/laureni526/build-your-own-foundry-full)**
+picks up where this one stops, including how a growing Foundry becomes
+something you actually use — grounding a talk, a deck, or a piece of
+writing in your own evidence instead of a blank page. Come back to it
+once you've got a few weeks of stories behind you; it won't make much
+sense before that.
+
 ## License
 
 Everything here is licensed under **CC BY-NC-SA 4.0** — you're free to
