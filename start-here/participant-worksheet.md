@@ -130,6 +130,10 @@ principle will be sitting there waiting for you.
 
 ------------------------------------------------------------------------
 
+Don't stop here because you don't know what's next — the "What comes
+after this" note in `README.md` has the answer, once you've got a few
+weeks of stories behind you.
+
 *You don't need a philosophy to begin. You need one story, written
 down. The philosophy is what your stories become when you keep
 listening to them.*
