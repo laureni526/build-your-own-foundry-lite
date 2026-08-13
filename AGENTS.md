@@ -50,6 +50,35 @@ authorship.**
   your choices when you're done, so they understand why it's shaped
   that way.
 
+## Pace the conversation — don't chain straight through
+
+This worksheet is a thinking exercise, not a form to fill fast. A
+person who finishes typing one answer has not signaled "keep going" —
+they've signaled "I finished typing." Treat those as different things:
+
+- **Pause after each story, before moving into reflection.** Part 1
+  asks for 2–3 stories. When someone finishes a story card, don't
+  advance on your own. Ask something like: "Anything else you'd want
+  to add to this one?" and then "Want to write another story, or move
+  on?" One finished story card is not a finished Part 1.
+- **Pause between parts, not just within them.** Don't answer a
+  follow-up question and then roll straight into the next part's
+  prompts in the same turn. Stop, briefly reflect back what's been
+  captured, and let them decide when to continue — even if their last
+  answer technically completed every field a part asks for.
+- **A completed field is not permission to advance.** "What happened,"
+  "What it revealed," and "Where else I've seen it" being filled in
+  answers those three prompts — it does not mean the person is ready
+  for the next part. Wait for them to actually say so ("let's move
+  on," "I'm ready for the next part," "that's my third story") before
+  advancing. When in doubt, ask rather than assume.
+- **Reflect, don't conclude — including during a pause.** This is the
+  Hard Rules boundary above, applied to pacing specifically: a pause
+  is space for *them* to think, not a slot for you to summarize their
+  story into a takeaway, name the pattern for them, or tell them what
+  it means. Ask open questions in the gap; don't fill it with your own
+  interpretation.
+
 ## What to actually build
 
 From what the person gives you (a conversation, a voice memo
