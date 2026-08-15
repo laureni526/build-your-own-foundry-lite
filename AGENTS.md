@@ -28,6 +28,11 @@ authorship.**
    is probably working from.
 4. Every file in `templates/` — the exact shapes to copy. Match their
    structure; do not invent a different one.
+5. If the person has old decks, docs, or notes from before they had a
+   system and wants to work from those instead of memory, read
+   `mining-existing-material.md` — it's an alternative to the
+   worksheet, not an addition to it, and it carries one extra hard
+   rule: never fill a gap the source doesn't actually cover.
 
 ## Hard rules
 
