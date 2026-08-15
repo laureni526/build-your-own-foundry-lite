@@ -42,10 +42,13 @@ When you're tempted to declare something true, the default answer is:
     the software.
 4.  Write your first story this week. That's the whole first step.
 
-**Already have old decks or docs from before you had a system?** See
-**[mining-existing-material.md](mining-existing-material.md)** — an
-alternative first step that starts from what you've already written
-instead of a blank page.
+**Already have old decks or docs from before you had a system?**
+Download **[mining-existing-material.skill](mining-existing-material.skill)**
+and drop it into Claude (chat, Cowork, or `.claude/skills/` in Claude
+Code) — or read **[mining-existing-material.md](mining-existing-material.md)**
+first for the plain-English version and instructions for other AI
+tools. Either way, it's an alternative first step that starts from what
+you've already written instead of a blank page.
 
 ## If an AI agent is reading this
 
@@ -65,6 +68,7 @@ to touch.
 | `templates/open-questions-page.md` | The page that keeps your system honest |
 | `templates/thirty-day-capture-plan.md` | The habit that makes it all compound |
 | `mining-existing-material.md` | Alternative first step for people with old decks or docs to mine instead of starting from memory |
+| `mining-existing-material.skill` | The same thing, packaged as a ready-to-run Claude Skill — download and drop in |
 
 ## What comes after this
 
