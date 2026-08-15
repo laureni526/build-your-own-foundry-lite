@@ -40,8 +40,16 @@ conversation.
 
 # How To Use This
 
-Give an AI assistant (Claude, ChatGPT, whatever you have) this page and
-your old material — a deck, a doc, a folder of notes — and ask it to:
+**Fastest path — Claude users:** download
+**[mining-existing-material.skill](mining-existing-material.skill)**
+from this repo and drop it into Claude — in a chat, in Cowork, or into
+`.claude/skills/` in Claude Code. It's a ready-to-run Skill: attach your
+old material and it starts the process below on its own, no prompting
+required.
+
+**Any other AI assistant** (ChatGPT, Gemini, or Claude without Skills
+support): give it this page and your old material — a deck, a doc, a
+folder of notes — and ask it to do the following:
 
 1.  **Read the source closely**, including speaker notes and headers,
     not just headline bullets. The real story is often in the notes,
